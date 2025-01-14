@@ -1,5 +1,4 @@
 # Excel_Projects
-Various Statistical Analysis and Excel-based solutions for data management, visualization, and reporting.
 Global Superstore Sales Analysis Dashboard
 This project presents a comprehensive analysis of sales data from a global superstore. The Excel workbook includes detailed insights on sales performance, customer behavior, and product trends across multiple regions. The data has been visualized using various Excel features, including pivot tables, charts, and a dynamic dashboard for easy exploration of key metrics.
 
