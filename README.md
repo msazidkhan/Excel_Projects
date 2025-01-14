@@ -13,10 +13,13 @@ The dataset includes historical sales data such as order ID, product details, sa
 The dashboard is designed to provide actionable insights, helping stakeholders make data-driven decisions.
 Tools & Techniques Used
 Microsoft Excel: Advanced Excel features such as pivot tables, data filtering, conditional formatting, and dynamic charts.
+
 Data Analysis: Statistical methods to analyze trends, sales performance, and customer patterns.
+
 Installation
 Download the Global_Superstore_Stats_Project.xlsx file.
 Open the file in Microsoft Excel to interact with the data and explore the dashboard.
+
 Usage
 The dashboard automatically updates based on changes in the data set, providing real-time insights.
 Use filters and slicers to view sales performance by region, product category, or customer segment.
